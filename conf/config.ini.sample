@@ -1,0 +1,10 @@
+[pyrogram]
+api_id = 123456
+api_hash = from https://my.telegram.org/
+
+[proxy]
+enabled=True
+hostname=
+port=
+username=
+password=
